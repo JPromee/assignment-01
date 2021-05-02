@@ -89,6 +89,10 @@ section{
     width: 100%;
 }
 
+.xtra{
+    margin: 150px 0;
+}
+
 .inquery{
     height: 200px;
     margin: 140px auto;
