@@ -59,7 +59,7 @@ section{
 }
 
 .project{
-    background: linear-gradient( rgb(250, 239, 234), rgb(250, 221, 207), rgb(248, 160, 148));
+    background: linear-gradient( rgb(250, 239, 234), rgb(250, 221, 207), rgb(250, 182, 173));
     height: 700px;
 }
 
@@ -119,6 +119,7 @@ section{
     text-align: center;
     height: 200px;
     border-top: 1px solid dimgray;
+    background: linear-gradient( rgb(250, 239, 234), rgb(250, 221, 207), rgb(250, 182, 173));
 }
 
 .connection h3{
