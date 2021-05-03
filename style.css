@@ -41,12 +41,22 @@ nav{
 ul li{
     list-style: none;
     float: left;
-    padding: 10px 30px;
+   padding-top: 20px;
+}
+
+ul li:last-child{
+    padding-right: 100px;
 }
 
 ul a{
     text-decoration: none;
     color: dimgray;
+    padding: 10px 20px;
+}
+
+ul a:hover{
+    color: white;
+    background: rgb(255, 78, 58);
 }
 
 .highlight{
