@@ -33,6 +33,22 @@ section{
     height: 600px;
 }
 
+nav{
+    float: right;
+    height: 100px;
+}
+
+ul li{
+    list-style: none;
+    float: left;
+    padding: 10px 30px;
+}
+
+ul a{
+    text-decoration: none;
+    color: dimgray;
+}
+
 .highlight{
     color:salmon;
 }
@@ -45,8 +61,12 @@ section{
 }
 
 .half img{
-    width: 100%;
+    width: 70%;
     height: 50%;
+}
+
+.head .text{
+    margin-top: 80px;
 }
 
 .button{
@@ -112,7 +132,7 @@ section{
 
 .inquery a{
     float: right;
-    margin-top: 10%;
+    margin-top: 85px;
 }
 
 .query{
